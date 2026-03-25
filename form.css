@@ -1,0 +1,21 @@
+.fm{
+    border: 3px;
+    border-color: black;
+}
+.btn{
+    height: 35px;
+    width: 120px;
+    font-style: italic;
+    font-size: large;
+    color: rgb(228, 228, 228);
+    background-color: rgb(5, 56, 104);
+    border-radius: 15px;
+    cursor: pointer;
+}
+.btn:hover{
+    transition: all s;
+}
+#fn{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+
